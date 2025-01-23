@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		97E5E7D22D42A0C70038E09F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 97E5E7B92D42A0C60038E09F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 97E5E7C02D42A0C60038E09F;
+			remoteInfo = "Heker News";
+		};
+		97E5E7DC2D42A0C70038E09F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 97E5E7B92D42A0C60038E09F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 97E5E7C02D42A0C60038E09F;
+			remoteInfo = "Heker News";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		97E5E7C12D42A0C60038E09F /* Heker News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Heker News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97E5E7D12D42A0C70038E09F /* Heker NewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Heker NewsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97E5E7DB2D42A0C70038E09F /* Heker NewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Heker NewsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		97E5E7C32D42A0C60038E09F /* Heker News */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Heker News";
+			sourceTree = "<group>";
+		};
+		97E5E7D42D42A0C70038E09F /* Heker NewsTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Heker NewsTests";
+			sourceTree = "<group>";
+		};
+		97E5E7DE2D42A0C70038E09F /* Heker NewsUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Heker NewsUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97E5E7BE2D42A0C60038E09F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E5E7CE2D42A0C70038E09F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E5E7D82D42A0C70038E09F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		97E5E7B82D42A0C60038E09F = {
+			isa = PBXGroup;
+			children = (
+				97E5E7C32D42A0C60038E09F /* Heker News */,
+				97E5E7D42D42A0C70038E09F /* Heker NewsTests */,
+				97E5E7DE2D42A0C70038E09F /* Heker NewsUITests */,
+				97E5E7C22D42A0C60038E09F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		97E5E7C22D42A0C60038E09F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97E5E7C12D42A0C60038E09F /* Heker News.app */,
+				97E5E7D12D42A0C70038E09F /* Heker NewsTests.xctest */,
+				97E5E7DB2D42A0C70038E09F /* Heker NewsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97E5E7C02D42A0C60038E09F /* Heker News */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97E5E7E52D42A0C70038E09F /* Build configuration list for PBXNativeTarget "Heker News" */;
+			buildPhases = (
+				97E5E7BD2D42A0C60038E09F /* Sources */,
+				97E5E7BE2D42A0C60038E09F /* Frameworks */,
+				97E5E7BF2D42A0C60038E09F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				97E5E7C32D42A0C60038E09F /* Heker News */,
+			);
+			name = "Heker News";
+			packageProductDependencies = (
+			);
+			productName = "Heker News";
+			productReference = 97E5E7C12D42A0C60038E09F /* Heker News.app */;
+			productType = "com.apple.product-type.application";
+		};
+		97E5E7D02D42A0C70038E09F /* Heker NewsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97E5E7E82D42A0C70038E09F /* Build configuration list for PBXNativeTarget "Heker NewsTests" */;
+			buildPhases = (
+				97E5E7CD2D42A0C70038E09F /* Sources */,
+				97E5E7CE2D42A0C70038E09F /* Frameworks */,
+				97E5E7CF2D42A0C70038E09F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				97E5E7D32D42A0C70038E09F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				97E5E7D42D42A0C70038E09F /* Heker NewsTests */,
+			);
+			name = "Heker NewsTests";
+			packageProductDependencies = (
+			);
+			productName = "Heker NewsTests";
+			productReference = 97E5E7D12D42A0C70038E09F /* Heker NewsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		97E5E7DA2D42A0C70038E09F /* Heker NewsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97E5E7EB2D42A0C70038E09F /* Build configuration list for PBXNativeTarget "Heker NewsUITests" */;
+			buildPhases = (
+				97E5E7D72D42A0C70038E09F /* Sources */,
+				97E5E7D82D42A0C70038E09F /* Frameworks */,
+				97E5E7D92D42A0C70038E09F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				97E5E7DD2D42A0C70038E09F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				97E5E7DE2D42A0C70038E09F /* Heker NewsUITests */,
+			);
+			name = "Heker NewsUITests";
+			packageProductDependencies = (
+			);
+			productName = "Heker NewsUITests";
+			productReference = 97E5E7DB2D42A0C70038E09F /* Heker NewsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97E5E7B92D42A0C60038E09F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					97E5E7C02D42A0C60038E09F = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					97E5E7D02D42A0C70038E09F = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 97E5E7C02D42A0C60038E09F;
+					};
+					97E5E7DA2D42A0C70038E09F = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 97E5E7C02D42A0C60038E09F;
+					};
+				};
+			};
+			buildConfigurationList = 97E5E7BC2D42A0C60038E09F /* Build configuration list for PBXProject "Heker News" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 97E5E7B82D42A0C60038E09F;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 97E5E7C22D42A0C60038E09F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97E5E7C02D42A0C60038E09F /* Heker News */,
+				97E5E7D02D42A0C70038E09F /* Heker NewsTests */,
+				97E5E7DA2D42A0C70038E09F /* Heker NewsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		97E5E7BF2D42A0C60038E09F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E5E7CF2D42A0C70038E09F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E5E7D92D42A0C70038E09F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97E5E7BD2D42A0C60038E09F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E5E7CD2D42A0C70038E09F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E5E7D72D42A0C70038E09F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		97E5E7D32D42A0C70038E09F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 97E5E7C02D42A0C60038E09F /* Heker News */;
+			targetProxy = 97E5E7D22D42A0C70038E09F /* PBXContainerItemProxy */;
+		};
+		97E5E7DD2D42A0C70038E09F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 97E5E7C02D42A0C60038E09F /* Heker News */;
+			targetProxy = 97E5E7DC2D42A0C70038E09F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		97E5E7E32D42A0C70038E09F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		97E5E7E42D42A0C70038E09F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		97E5E7E62D42A0C70038E09F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Heker News/Preview Content\"";
+				DEVELOPMENT_TEAM = C6L73NJN64;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.danylom73.Heker-News";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		97E5E7E72D42A0C70038E09F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Heker News/Preview Content\"";
+				DEVELOPMENT_TEAM = C6L73NJN64;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.danylom73.Heker-News";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		97E5E7E92D42A0C70038E09F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6L73NJN64;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.danylom73.Heker-NewsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Heker News.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Heker News";
+			};
+			name = Debug;
+		};
+		97E5E7EA2D42A0C70038E09F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6L73NJN64;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.danylom73.Heker-NewsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Heker News.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Heker News";
+			};
+			name = Release;
+		};
+		97E5E7EC2D42A0C70038E09F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6L73NJN64;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.danylom73.Heker-NewsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Heker News";
+			};
+			name = Debug;
+		};
+		97E5E7ED2D42A0C70038E09F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6L73NJN64;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.danylom73.Heker-NewsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Heker News";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97E5E7BC2D42A0C60038E09F /* Build configuration list for PBXProject "Heker News" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97E5E7E32D42A0C70038E09F /* Debug */,
+				97E5E7E42D42A0C70038E09F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97E5E7E52D42A0C70038E09F /* Build configuration list for PBXNativeTarget "Heker News" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97E5E7E62D42A0C70038E09F /* Debug */,
+				97E5E7E72D42A0C70038E09F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97E5E7E82D42A0C70038E09F /* Build configuration list for PBXNativeTarget "Heker NewsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97E5E7E92D42A0C70038E09F /* Debug */,
+				97E5E7EA2D42A0C70038E09F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97E5E7EB2D42A0C70038E09F /* Build configuration list for PBXNativeTarget "Heker NewsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97E5E7EC2D42A0C70038E09F /* Debug */,
+				97E5E7ED2D42A0C70038E09F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 97E5E7B92D42A0C60038E09F /* Project object */;
+}
