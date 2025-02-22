@@ -10,6 +10,7 @@
 - JSONDecoder
 - NavigationLink
 - WKWebView
+- [Search Hacker News API](https://hn.algolia.com/)
 
 *This project was developed as part of The Complete iOS App Development Bootcamp by London App Brewery*
 
